@@ -2,14 +2,14 @@ module.exports = () => {
   const data = {
     user: [
       {
-        id: "1",
+        id: 1,
         username: "miguel123-dp",
         password: "blackpink",
         Phone: "2861810",
         Dir: "Cra 78 # 41 sur 49",
       },
       {
-        id: "2",
+        id: 2,
         username: "juanesca",
         password: "hwasa",
         Phone: "5646231",
@@ -18,48 +18,48 @@ module.exports = () => {
     ],
     questions: [
       {
-        id: "1",
+        id: 1,
         q: "¿TIENES GRIPA O MALESTAR GENERAL?",
         res: "",
       },
       {
-        id: "2",
+        id: 2,
         q:
           "¿HAS TENIDO CONTACTO CON ALGUIEN QUE TUVO ALGUNO DE ESTOS SINTOMAS?",
         res: "",
       },
       {
-        id: "3",
+        id: 3,
         q: "¿PRESENTA ALGUNA ENFERMEDAD ACTUALMENTE?",
         res: "",
       },
       {
-        id: "4",
+        id: 4,
         q:
           "¿HAS HECHO VIAJES O IR A ALGUNOS LUGARES DONDE AGLOMERA VARIAS PERSONAS?",
         res: "",
       },
       {
-        id: "5",
+        id: 5,
         q: "¿TE HAN MEDICADO RECIENTEMENTE?",
         res: "",
       },
       {
-        id: "6",
+        id: 6,
         q: "¿TE HAN MEDICADO RECIENTEMENTE?",
         res: "",
       },
     ],
     enfermedades: [
       {
-        id: "1",
+        id: 1,
         name: "Dolor de cabeza",
         recomendaciones:
           "Entre los medicamentos que pueden reducir el dolor de cabeza se incluyen la aspirina, el paracetamol y el ibuprofeno. Descansar en una habitación oscura también puede ayudar. Advertencia sobre la fiebre del dengue: Si crees que puedes tener dengue, consulta a tu médico y evita tomar aspirina o ibuprofeno.",
         img: "./images/Dcabeza.png",
       },
       {
-        id: "2",
+        id: 2,
         name: "Fiebre",
         recomendaciones:
           "Tomar medicamentos como el ibuprofeno y el paracetamol puede aliviar la molestia. Evita administrar aspirina a los niños, ya que puede causar un trastorno poco frecuente, pero grave.",
